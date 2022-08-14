@@ -31,11 +31,11 @@ function initState() {
 ```
 
 Run the `init` function as soon as possible: this will trigger the event listeners
-relative to the app installed state
+relative to the app's installed state
 
 ### Listen for changes
 
-A ``isAppInstalled`` persistent [nanostore](https://github.com/nanostores/persistent) atom is 
+A ``isAppInstalled`` [persistent nanostore atom](https://github.com/nanostores/persistent#nano-stores-persistent) is 
 available to watch the state changes
 
 ```typescript
