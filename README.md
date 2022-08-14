@@ -1,6 +1,6 @@
 # Use Pwa State
 
-[![package](https://img.shields.io/npm/v/usepwa)](https://www.npmjs.com/package/usepwa)
+[![package](https://img.shields.io/npm/v/usepwa)](https://www.npmjs.com/package/usepwastate)
 
 A composable to manage a progressive web app's install state
 
